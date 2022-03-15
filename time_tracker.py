@@ -1,4 +1,3 @@
-from sys import maxsize
 import pandas
 from openpyxl import Workbook, load_workbook
 from datetime import datetime
